@@ -33,7 +33,7 @@ The website is built using **only HTML, CSS and JavaScript**, following naming c
 Special thanks to the following resources and references for design and inspiration:
 
 - [PLD Space Website](https://www.pldspace.com/es) — clean layout and structured design inspiration.  
-- [Dribbble Web Design Tags](https://dribbble.com/tags/web) — for aesthetic and interface ideas.  
+- [Dribbble Web Personal Portfolio Design](https://dribbble.com/shots/24978876-Personal-Portfolio-Website-Design) 
 - [PurpleBooth – A Good README Template](https://github.com/PurpleBooth/a-good-readme-template) — for documentation reference.  
 - [Font Awesome](https://fontawesome.com/) — for icon assets.  
 - [Google Fonts](https://fonts.google.com/specimen/Inter) — for typography.
