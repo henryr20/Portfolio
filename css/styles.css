@@ -541,7 +541,6 @@ FOOTER
     display: flex;
     flex-wrap: wrap;
     justify-content: end;
-    /* centra cada línea */
     width: 100%;
 }
 
@@ -750,4 +749,5 @@ FOOTER
     .about-image img {
         margin-top: 1rem;
     }
+
 }
